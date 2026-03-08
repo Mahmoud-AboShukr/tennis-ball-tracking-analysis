@@ -1,0 +1,7 @@
+numpy
+opencv-python
+matplotlib
+scipy
+torch
+ultralytics
+git+https://github.com/facebookresearch/segment-anything.git
